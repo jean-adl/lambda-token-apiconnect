@@ -9,8 +9,14 @@ From source code you must run the follow command for create a executable program
 GOOS=linux go build -o main
 ```
 
+## Lambda name
+```
+bocc-pb-lambda-token-apiconnect
+```
 ## Libraries and SDKs
 The official Amazon Web Service SDK
+
+Example.
 ```go
 package main
 
@@ -37,4 +43,4 @@ func main() {
 Jean Carlos Rodríguez 
 
 ## License
-Aval Digital Labs
+[Aval Digital Labs](https://www.linkedin.com/company/avaldigitallabs)
